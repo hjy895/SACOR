@@ -1,0 +1,58 @@
+{
+  "PAN": {
+    "BLEU": 8.542006,
+    "chrF": 23.709103,
+    "num_examples": 700,
+    "translation_time": 67.73,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/PAN_translations.tsv"
+  },
+  "PBT": {
+    "BLEU": 8.74144,
+    "chrF": 21.251106,
+    "num_examples": 700,
+    "translation_time": 52.02,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/PBT_translations.tsv"
+  },
+  "SND": {
+    "BLEU": 8.66817,
+    "chrF": 21.117493,
+    "num_examples": 700,
+    "translation_time": 88.76,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/SND_translations.tsv"
+  },
+  "SKR": {
+    "BLEU": 7.802236,
+    "chrF": 19.970566,
+    "num_examples": 628,
+    "translation_time": 56.65,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/SKR_translations.tsv"
+  },
+  "URD": {
+    "BLEU": 10.588385,
+    "chrF": 23.251741,
+    "num_examples": 700,
+    "translation_time": 66.04,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/URD_translations.tsv"
+  },
+  "BAL": {
+    "BLEU": 4.39952,
+    "chrF": 16.843508,
+    "num_examples": 515,
+    "translation_time": 89.41,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/BAL_translations.tsv"
+  },
+  "HND": {
+    "BLEU": 4.331268,
+    "chrF": 17.28584,
+    "num_examples": 438,
+    "translation_time": 68.2,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/HND_translations.tsv"
+  },
+  "BRH": {
+    "BLEU": 3.968669,
+    "chrF": 16.68488,
+    "num_examples": 357,
+    "translation_time": 89.82,
+    "translations_file": "evaluation_results_samples/nllb_finetuned_base_700/BRH_translations.tsv"
+  }
+}

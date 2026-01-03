@@ -1,0 +1,59 @@
+{
+	"EN-PAN": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-pan.en",
+		"target_file": "path/to/en-pan.pan",
+		"saving_dir": "corpora/EN-PAN/"
+	},
+	"EN-PBT": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-pbt.en",
+		"target_file": "path/to/en-pbt.pbt",
+		"saving_dir": "corpora/EN-PBT/"
+	},
+	"EN-SND": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-snd.en",
+		"target_file": "path/to/en-snd.snd",
+		"saving_dir": "corpora/EN-SND/"
+	},
+	"EN-SKR": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-skr.en",
+		"target_file": "path/to/en-skr.skr",
+		"saving_dir": "corpora/EN-SKR/"
+	},
+	"EN-URD": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-urd.en",
+		"target_file": "path/to/en-urd.urd",
+		"saving_dir": "corpora/EN-URD/"
+	},
+	"EN-BAL": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-bal.en",
+		"target_file": "path/to/en-bal.bal",
+		"saving_dir": "corpora/EN-BAL/"
+	},
+	"EN-HND": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-hnd.en",
+		"target_file": "path/to/en-hnd.hnd",
+		"saving_dir": "corpora/EN-HND/"
+	},
+	"EN-BRH": {
+		"source_script": "Latn",
+		"target_script": "Standard",
+		"source_file": "path/to/en-brh.en",
+		"target_file": "path/to/en-brh.brh",
+		"saving_dir": "corpora/EN-BRH/"
+	}
+}
+

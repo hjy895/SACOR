@@ -1,0 +1,5 @@
+Zero-shot evaluation results for PARUR languages
+============================================================
+
+Model: NLLB-200-distilled-1.3B
+Evaluation completed.

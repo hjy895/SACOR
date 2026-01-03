@@ -1,0 +1,7 @@
+{
+  "BLEU": 5.92249,
+  "chrF": 19.148059,
+  "num_examples": 859,
+  "source_lang": "hin_Deva",
+  "target_lang": "SND"
+}
