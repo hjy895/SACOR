@@ -1,4 +1,4 @@
-Placeholder for PARUR map image
+Placeholder for SACOR map image
 This would be replaced with an actual JPG image showing a map of South Asia
 with the 8 languages highlighted (Punjabi, Pashto, Sindhi, Saraiki, Urdu, Balochi, Hindko, Brahui).
 

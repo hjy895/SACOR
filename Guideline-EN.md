@@ -1,6 +1,6 @@
 # **Machine Translation for Low-Resource South Asian Languages**
 
-Created for PARUR Project  
+Created for SACOR Project  
 Last modified: January 2025
 
 This document is available in the following languages as well:
@@ -9,7 +9,7 @@ This document is available in the following languages as well:
 - [Punjabi](Guideline-PAN.md)
 
 <p align="center" width="100%">
-    <img width="60%" src="https://via.placeholder.com/600x300?text=South+Asian+Languages" alt="PARUR Languages">
+    <img width="60%" src="https://via.placeholder.com/600x300?text=South+Asian+Languages" alt="SACOR Languages">
 </p>
 
 ## **Goal**
@@ -59,7 +59,7 @@ We are all doing this project following our love for the language and our passio
 3. There is an error in the sentence that I am translating from. Should I fix it?  
    **There is no need to change the original sentences. If they are not correct, simply skip them (but don't delete the row). If, for any reason, translating a given sentence is not possible in your language, you can skip them. At the end, only non-empty cells are considered as valid translations.**
 
-## **Languages in PARUR**
+## **Languages in SACOR**
 
 The following eight South Asian languages are included in this project:
 

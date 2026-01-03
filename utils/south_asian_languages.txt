@@ -1,4 +1,4 @@
-South Asian languages in PARUR:
+South Asian languages in SACOR:
 Punjabi (PAN) - pan_Arab
 Pashto (PBT) - pbt_Arab
 Sindhi (SND) - snd_Arab

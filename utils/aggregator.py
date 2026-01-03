@@ -5,7 +5,7 @@ This script selects sentences for each language and then, aligns them to the ori
 
 This generates the train/val/test datasets with complete metadata.
 
--- PARUR-NLP
+-- SACOR-NLP
 """
 
 import json

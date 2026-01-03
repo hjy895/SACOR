@@ -1,4 +1,4 @@
-# PARUR: A Parallel Corpus for Diverse Low-Resource South Asian Languages
+# SACOR: A Multilingual Parallel Corpus for Low-Resource South Asian Languages
 
 **TL;DR We provide parallel corpora for eight under-represented languages in South Asia along with scripts to fine-tune NLLB. The resources are open-source. Please consider these languages in your projects!**
 
@@ -122,7 +122,7 @@ All languages use their correct, standard writing systems as used in Pakistan an
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd PARUR-main
+cd SACOR-main
 ```
 
 2. Install dependencies:
@@ -143,10 +143,10 @@ Any support to sustain this initiative, as well as research collaborations to ex
 If you're using this project, please cite appropriately:
 
 ```bibtex
-@misc{parur2024,
-  title = {{PARUR}: Parallel Corpora for Low-Resourced {South Asian} Languages},
-  author = {PARUR Contributors},
+@misc{sacor2024,
+  title = {{SACOR}: A Multilingual Parallel Corpus for Low-Resource {South Asian} Languages},
+  author = {SACOR Contributors},
   year = {2024},
-  howpublished = {\url{https://github.com/yourusername/PARUR}}
+  howpublished = {\url{https://github.com/yourusername/SACOR}}
 }
 ```

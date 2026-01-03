@@ -1,4 +1,4 @@
-Zero-shot evaluation results for PARUR languages
+Zero-shot evaluation results for SACOR languages
 ============================================================
 
 Model: NLLB-200-distilled-1.3B

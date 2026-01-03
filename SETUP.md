@@ -1,8 +1,8 @@
-# PARUR Setup Guide
+# SACOR Setup Guide
 
 ## Overview
 
-PARUR (Parallel Corpus for Diverse Low-Resource South Asian Languages) is a repository for creating and fine-tuning machine translation models for eight South Asian languages.
+SACOR (A Multilingual Parallel Corpus for Low-Resource South Asian Languages) is a repository for creating and fine-tuning machine translation models for eight South Asian languages.
 
 ## Languages Supported
 
@@ -20,7 +20,7 @@ PARUR (Parallel Corpus for Diverse Low-Resource South Asian Languages) is a repo
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd PARUR-main
+cd SACOR-main
 ```
 
 2. Install dependencies:
@@ -99,7 +99,7 @@ python models_evaluate.py
 ## Directory Structure
 
 ```
-PARUR-main/
+SACOR-main/
 ├── codes/              # Python scripts
 ├── corpora/            # Parallel corpora (TSV files)
 ├── datasets/            # Train/val/test splits
