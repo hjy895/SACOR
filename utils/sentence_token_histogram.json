@@ -1,0 +1,17 @@
+{
+    "sentence_lengths": {
+        "min": 5,
+        "max": 200,
+        "mean": 45,
+        "median": 42,
+        "std": 18
+    },
+    "token_lengths": {
+        "min": 3,
+        "max": 150,
+        "mean": 35,
+        "median": 32,
+        "std": 15
+    }
+}
+

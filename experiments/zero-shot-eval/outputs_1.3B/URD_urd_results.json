@@ -1,0 +1,7 @@
+{
+  "BLEU": 9.111639,
+  "chrF": 23.094418,
+  "num_examples": 674,
+  "source_lang": "urd_Arab",
+  "target_lang": "URD"
+}

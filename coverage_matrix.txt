@@ -1,0 +1,4 @@
+Placeholder for coverage matrix image
+This would be replaced with an actual PNG image showing the coverage matrix
+of parallel sentences across languages in the PARUR corpus.
+
