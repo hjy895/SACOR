@@ -143,10 +143,11 @@ Any support to sustain this initiative, as well as research collaborations to ex
 If you're using this project, please cite appropriately:
 
 ```bibtex
-@misc{parur2024,
+@misc{parur2026,
   title = {{PARUR}: Parallel Corpora for Low-Resourced {South Asian} Languages},
   author = {PARUR Contributors},
-  year = {2024},
+  year = {2026},
   howpublished = {\url{https://github.com/yourusername/PARUR}}
 }
 ```
+
