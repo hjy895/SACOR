@@ -1,0 +1,499 @@
+{
+    "PAN": {
+        "test": {
+            "variety": {
+                "Punjabi (Standard)": 770
+            },
+            "translators": {
+                "PARUR_01": 77,
+                "PARUR_02": 77,
+                "PARUR_03": 77,
+                "PARUR_04": 77,
+                "PARUR_05": 77,
+                "PARUR_06": 77,
+                "PARUR_07": 77,
+                "PARUR_08": 77,
+                "PARUR_09": 77,
+                "PARUR_10": 77
+            },
+            "variety_region": {
+                "Punjabi (Standard) - South Asia": 770
+            }
+        },
+        "val": {
+            "variety": {
+                "Punjabi (Standard)": 769
+            },
+            "translators": {
+                "PARUR_01": 77,
+                "PARUR_02": 77,
+                "PARUR_03": 77,
+                "PARUR_04": 77,
+                "PARUR_05": 77,
+                "PARUR_06": 77,
+                "PARUR_07": 77,
+                "PARUR_08": 77,
+                "PARUR_09": 77,
+                "PARUR_10": 76
+            },
+            "variety_region": {
+                "Punjabi (Standard) - South Asia": 769
+            }
+        },
+        "train": {
+            "variety": {
+                "Punjabi (Standard)": 3588
+            },
+            "translators": {
+                "PARUR_01": 359,
+                "PARUR_02": 359,
+                "PARUR_03": 359,
+                "PARUR_04": 359,
+                "PARUR_05": 359,
+                "PARUR_06": 359,
+                "PARUR_07": 359,
+                "PARUR_08": 359,
+                "PARUR_09": 359,
+                "PARUR_10": 356
+            },
+            "variety_region": {
+                "Punjabi (Standard) - South Asia": 3588
+            }
+        }
+    },
+    "PBT": {
+        "test": {
+            "variety": {
+                "Pashto (Standard)": 880
+            },
+            "translators": {
+                "PARUR_01": 88,
+                "PARUR_02": 88,
+                "PARUR_03": 88,
+                "PARUR_04": 88,
+                "PARUR_05": 88,
+                "PARUR_06": 88,
+                "PARUR_07": 88,
+                "PARUR_08": 88,
+                "PARUR_09": 88,
+                "PARUR_10": 88
+            },
+            "variety_region": {
+                "Pashto (Standard) - South Asia": 880
+            }
+        },
+        "val": {
+            "variety": {
+                "Pashto (Standard)": 878
+            },
+            "translators": {
+                "PARUR_01": 88,
+                "PARUR_02": 88,
+                "PARUR_03": 88,
+                "PARUR_04": 88,
+                "PARUR_05": 88,
+                "PARUR_06": 88,
+                "PARUR_07": 88,
+                "PARUR_08": 88,
+                "PARUR_09": 87,
+                "PARUR_10": 87
+            },
+            "variety_region": {
+                "Pashto (Standard) - South Asia": 878
+            }
+        },
+        "train": {
+            "variety": {
+                "Pashto (Standard)": 4099
+            },
+            "translators": {
+                "PARUR_01": 410,
+                "PARUR_02": 410,
+                "PARUR_03": 410,
+                "PARUR_04": 410,
+                "PARUR_05": 410,
+                "PARUR_06": 410,
+                "PARUR_07": 410,
+                "PARUR_08": 410,
+                "PARUR_09": 410,
+                "PARUR_10": 409
+            },
+            "variety_region": {
+                "Pashto (Standard) - South Asia": 4099
+            }
+        }
+    },
+    "SND": {
+        "test": {
+            "variety": {
+                "Sindhi (Standard)": 1023
+            },
+            "translators": {
+                "PARUR_01": 102,
+                "PARUR_02": 102,
+                "PARUR_03": 102,
+                "PARUR_04": 102,
+                "PARUR_05": 102,
+                "PARUR_06": 102,
+                "PARUR_07": 102,
+                "PARUR_08": 102,
+                "PARUR_09": 102,
+                "PARUR_10": 105
+            },
+            "variety_region": {
+                "Sindhi (Standard) - South Asia": 1023
+            }
+        },
+        "val": {
+            "variety": {
+                "Sindhi (Standard)": 1021
+            },
+            "translators": {
+                "PARUR_01": 102,
+                "PARUR_02": 102,
+                "PARUR_03": 102,
+                "PARUR_04": 102,
+                "PARUR_05": 102,
+                "PARUR_06": 102,
+                "PARUR_07": 102,
+                "PARUR_08": 102,
+                "PARUR_09": 102,
+                "PARUR_10": 103
+            },
+            "variety_region": {
+                "Sindhi (Standard) - South Asia": 1021
+            }
+        },
+        "train": {
+            "variety": {
+                "Sindhi (Standard)": 4768
+            },
+            "translators": {
+                "PARUR_01": 477,
+                "PARUR_02": 477,
+                "PARUR_03": 477,
+                "PARUR_04": 477,
+                "PARUR_05": 477,
+                "PARUR_06": 477,
+                "PARUR_07": 477,
+                "PARUR_08": 477,
+                "PARUR_09": 477,
+                "PARUR_10": 476
+            },
+            "variety_region": {
+                "Sindhi (Standard) - South Asia": 4768
+            }
+        }
+    },
+    "SKR": {
+        "test": {
+            "variety": {
+                "Saraiki (Standard)": 628
+            },
+            "translators": {
+                "PARUR_01": 63,
+                "PARUR_02": 63,
+                "PARUR_03": 63,
+                "PARUR_04": 63,
+                "PARUR_05": 63,
+                "PARUR_06": 63,
+                "PARUR_07": 63,
+                "PARUR_08": 63,
+                "PARUR_09": 63,
+                "PARUR_10": 61
+            },
+            "variety_region": {
+                "Saraiki (Standard) - South Asia": 628
+            }
+        },
+        "val": {
+            "variety": {
+                "Saraiki (Standard)": 626
+            },
+            "translators": {
+                "PARUR_01": 63,
+                "PARUR_02": 63,
+                "PARUR_03": 63,
+                "PARUR_04": 63,
+                "PARUR_05": 63,
+                "PARUR_06": 63,
+                "PARUR_07": 63,
+                "PARUR_08": 63,
+                "PARUR_09": 63,
+                "PARUR_10": 60
+            },
+            "variety_region": {
+                "Saraiki (Standard) - South Asia": 626
+            }
+        },
+        "train": {
+            "variety": {
+                "Saraiki (Standard)": 2925
+            },
+            "translators": {
+                "PARUR_01": 293,
+                "PARUR_02": 293,
+                "PARUR_03": 293,
+                "PARUR_04": 293,
+                "PARUR_05": 293,
+                "PARUR_06": 293,
+                "PARUR_07": 293,
+                "PARUR_08": 293,
+                "PARUR_09": 293,
+                "PARUR_10": 290
+            },
+            "variety_region": {
+                "Saraiki (Standard) - South Asia": 2925
+            }
+        }
+    },
+    "URD": {
+        "test": {
+            "variety": {
+                "Urdu (Standard)": 1191
+            },
+            "translators": {
+                "PARUR_01": 119,
+                "PARUR_02": 119,
+                "PARUR_03": 119,
+                "PARUR_04": 119,
+                "PARUR_05": 119,
+                "PARUR_06": 119,
+                "PARUR_07": 119,
+                "PARUR_08": 119,
+                "PARUR_09": 119,
+                "PARUR_10": 120
+            },
+            "variety_region": {
+                "Urdu (Standard) - South Asia": 1191
+            }
+        },
+        "val": {
+            "variety": {
+                "Urdu (Standard)": 1191
+            },
+            "translators": {
+                "PARUR_01": 119,
+                "PARUR_02": 119,
+                "PARUR_03": 119,
+                "PARUR_04": 119,
+                "PARUR_05": 119,
+                "PARUR_06": 119,
+                "PARUR_07": 119,
+                "PARUR_08": 119,
+                "PARUR_09": 119,
+                "PARUR_10": 120
+            },
+            "variety_region": {
+                "Urdu (Standard) - South Asia": 1191
+            }
+        },
+        "train": {
+            "variety": {
+                "Urdu (Standard)": 5558
+            },
+            "translators": {
+                "PARUR_01": 556,
+                "PARUR_02": 556,
+                "PARUR_03": 556,
+                "PARUR_04": 556,
+                "PARUR_05": 556,
+                "PARUR_06": 556,
+                "PARUR_07": 556,
+                "PARUR_08": 556,
+                "PARUR_09": 556,
+                "PARUR_10": 554
+            },
+            "variety_region": {
+                "Urdu (Standard) - South Asia": 5558
+            }
+        }
+    },
+    "BAL": {
+        "test": {
+            "variety": {
+                "Balochi (Standard)": 515
+            },
+            "translators": {
+                "PARUR_01": 52,
+                "PARUR_02": 52,
+                "PARUR_03": 52,
+                "PARUR_04": 52,
+                "PARUR_05": 52,
+                "PARUR_06": 52,
+                "PARUR_07": 52,
+                "PARUR_08": 52,
+                "PARUR_09": 52,
+                "PARUR_10": 47
+            },
+            "variety_region": {
+                "Balochi (Standard) - South Asia": 515
+            }
+        },
+        "val": {
+            "variety": {
+                "Balochi (Standard)": 513
+            },
+            "translators": {
+                "PARUR_01": 51,
+                "PARUR_02": 51,
+                "PARUR_03": 51,
+                "PARUR_04": 51,
+                "PARUR_05": 51,
+                "PARUR_06": 51,
+                "PARUR_07": 51,
+                "PARUR_08": 51,
+                "PARUR_09": 51,
+                "PARUR_10": 45
+            },
+            "variety_region": {
+                "Balochi (Standard) - South Asia": 513
+            }
+        },
+        "train": {
+            "variety": {
+                "Balochi (Standard)": 2397
+            },
+            "translators": {
+                "PARUR_01": 240,
+                "PARUR_02": 240,
+                "PARUR_03": 240,
+                "PARUR_04": 240,
+                "PARUR_05": 240,
+                "PARUR_06": 240,
+                "PARUR_07": 240,
+                "PARUR_08": 240,
+                "PARUR_09": 240,
+                "PARUR_10": 237
+            },
+            "variety_region": {
+                "Balochi (Standard) - South Asia": 2397
+            }
+        }
+    },
+    "HND": {
+        "test": {
+            "variety": {
+                "Hindko (Standard)": 438
+            },
+            "translators": {
+                "PARUR_01": 44,
+                "PARUR_02": 44,
+                "PARUR_03": 44,
+                "PARUR_04": 44,
+                "PARUR_05": 44,
+                "PARUR_06": 44,
+                "PARUR_07": 44,
+                "PARUR_08": 44,
+                "PARUR_09": 44,
+                "PARUR_10": 42
+            },
+            "variety_region": {
+                "Hindko (Standard) - South Asia": 438
+            }
+        },
+        "val": {
+            "variety": {
+                "Hindko (Standard)": 437
+            },
+            "translators": {
+                "PARUR_01": 44,
+                "PARUR_02": 44,
+                "PARUR_03": 44,
+                "PARUR_04": 44,
+                "PARUR_05": 44,
+                "PARUR_06": 44,
+                "PARUR_07": 44,
+                "PARUR_08": 44,
+                "PARUR_09": 44,
+                "PARUR_10": 41
+            },
+            "variety_region": {
+                "Hindko (Standard) - South Asia": 437
+            }
+        },
+        "train": {
+            "variety": {
+                "Hindko (Standard)": 2039
+            },
+            "translators": {
+                "PARUR_01": 204,
+                "PARUR_02": 204,
+                "PARUR_03": 204,
+                "PARUR_04": 204,
+                "PARUR_05": 204,
+                "PARUR_06": 204,
+                "PARUR_07": 204,
+                "PARUR_08": 204,
+                "PARUR_09": 204,
+                "PARUR_10": 203
+            },
+            "variety_region": {
+                "Hindko (Standard) - South Asia": 2039
+            }
+        }
+    },
+    "BRH": {
+        "test": {
+            "variety": {
+                "Brahui (Standard)": 357
+            },
+            "translators": {
+                "PARUR_01": 36,
+                "PARUR_02": 36,
+                "PARUR_03": 36,
+                "PARUR_04": 36,
+                "PARUR_05": 36,
+                "PARUR_06": 36,
+                "PARUR_07": 36,
+                "PARUR_08": 36,
+                "PARUR_09": 36,
+                "PARUR_10": 33
+            },
+            "variety_region": {
+                "Brahui (Standard) - South Asia": 357
+            }
+        },
+        "val": {
+            "variety": {
+                "Brahui (Standard)": 355
+            },
+            "translators": {
+                "PARUR_01": 36,
+                "PARUR_02": 36,
+                "PARUR_03": 36,
+                "PARUR_04": 36,
+                "PARUR_05": 36,
+                "PARUR_06": 36,
+                "PARUR_07": 36,
+                "PARUR_08": 36,
+                "PARUR_09": 36,
+                "PARUR_10": 31
+            },
+            "variety_region": {
+                "Brahui (Standard) - South Asia": 355
+            }
+        },
+        "train": {
+            "variety": {
+                "Brahui (Standard)": 1659
+            },
+            "translators": {
+                "PARUR_01": 166,
+                "PARUR_02": 166,
+                "PARUR_03": 166,
+                "PARUR_04": 166,
+                "PARUR_05": 166,
+                "PARUR_06": 166,
+                "PARUR_07": 166,
+                "PARUR_08": 166,
+                "PARUR_09": 166,
+                "PARUR_10": 161
+            },
+            "variety_region": {
+                "Brahui (Standard) - South Asia": 1659
+            }
+        }
+    }
+}
+
