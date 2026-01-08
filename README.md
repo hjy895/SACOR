@@ -12,9 +12,8 @@ South Asia is characterized by remarkable linguistic diversity, with over 1.8 bi
   <figcaption align="center">
     <b>Figure 1.</b> Map of where major South Asian languages are spoken in Pakistan and nearby regions; overlapping colors show multilingual areas, gray symbols indicate other recorded languages, and red squares mark major cities.
   </figcaption>
-</figure> <br>
-
-
+</figure> 
+<br>
 - **Punjabi** - Shahmukhi-based (Punjab, Pakistan)
 - **Pashto** - Native language of Afghanistan and parts of Pakistan
 - **Sindhi** - Language of Sindh province with unique character set
@@ -161,6 +160,7 @@ If you're using this project, please cite appropriately:
   howpublished = {\url{https://github.com/yourusername/SACOR}}
 }
 ```
+
 
 
 
