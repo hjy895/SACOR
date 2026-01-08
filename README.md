@@ -13,7 +13,7 @@ South Asia is characterized by remarkable linguistic diversity, with over 1.8 bi
     <b>Figure 1.</b> Map of where major South Asian languages are spoken in Pakistan and nearby regions; overlapping colors show multilingual areas, gray symbols indicate other recorded languages, and red squares mark major cities.
   </figcaption>
 </figure> 
-<br>
+
 - **Punjabi** - Shahmukhi-based (Punjab, Pakistan)
 - **Pashto** - Native language of Afghanistan and parts of Pakistan
 - **Sindhi** - Language of Sindh province with unique character set
@@ -21,7 +21,7 @@ South Asia is characterized by remarkable linguistic diversity, with over 1.8 bi
 - **Urdu** - National language of Pakistan, widely spoken across South Asia
 - **Balochi** - Language of Balochistan region
 - **Hindko** - Language of northern Pakistan, particularly Khyber Pakhtunkhwa
-- **Brahui** - Dravidian language spoken in Balochistan
+- **Brahui** - Dravidian language spoken in Balochistan <br><br>
 
 This repository provides documentation on our project that aims to develop machine translation for low-resource languages in South Asia. We use the **NLLB-200-distilled-1.3B** model for fine-tuning, providing better translation quality while maintaining computational efficiency.
 
