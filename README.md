@@ -156,10 +156,11 @@ If you're using this project, please cite appropriately:
 @misc{sacor2024,
   title = {{SACOR}: A Multilingual Parallel Corpus for Low-Resource {South Asian} Languages},
   author = {SACOR Contributors},
-  year = {2024},
+  year = {2026},
   howpublished = {\url{https://github.com/yourusername/SACOR}}
 }
 ```
+
 
 
 
