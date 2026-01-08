@@ -8,9 +8,6 @@ This document is available in the following languages as well:
 - [Urdu](Guideline-URD.md)
 - [Punjabi](Guideline-PAN.md)
 
-<p align="center" width="100%">
-    <img width="60%" src="https://via.placeholder.com/600x300?text=South+Asian+Languages" alt="SACOR Languages">
-</p>
 
 ## **Goal**
 
@@ -61,5 +58,6 @@ The following eight South Asian languages are included in this project:
 - **Balochi** (BAL) - Language of Balochistan region
 - **Hindko** (HND) - Language of northern Pakistan, particularly Khyber Pakhtunkhwa
 - **Brahui** (BRH) - Dravidian language spoken in Balochistan
+
 
 
