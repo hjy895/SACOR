@@ -7,7 +7,8 @@ South Asia is characterized by remarkable linguistic diversity, with over 1.8 bi
 <figure>
   <p align="center">
     <img width="476" height="355" alt="Figure 1: Language distribution map"
-         src="YOUR_IMAGE_URL_HERE" />
+         src="<img width="476" height="355" alt="image" src="https://github.com/user-attachments/assets/9345636b-6fef-49d6-98e5-413cd10e2b77" />
+" />
   </p>
   <figcaption align="center">
     <b>Figure 1.</b> Map of where major South Asian languages are spoken in Pakistan and nearby regions; overlapping colors show multilingual areas, gray symbols indicate other recorded languages, and red squares mark major cities.
@@ -160,6 +161,7 @@ If you're using this project, please cite appropriately:
   howpublished = {\url{https://github.com/yourusername/SACOR}}
 }
 ```
+
 
 
 
