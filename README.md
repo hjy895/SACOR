@@ -4,12 +4,15 @@
 
 South Asia is characterized by remarkable linguistic diversity, with over 1.8 billion inhabitants speaking more than 650 languages across multiple language families. In a first attempt of its kind, we create parallel corpora for the following eight under-represented languages of South Asia:
 
-\begin{figure}[t]
-  \centering
-  \includegraphics[width=\linewidth]{figures/figure1.png}
-  \caption{Map of where major South Asian languages are spoken in Pakistan and nearby regions; overlapping colors show multilingual areas, gray symbols indicate other recorded languages, and red squares mark major cities.}
-  \label{fig:lang-map}
-\end{figure}
+<figure>
+  <p align="center">
+    <img width="476" height="355" alt="Figure 1: Language distribution map"
+         src="YOUR_IMAGE_URL_HERE" />
+  </p>
+  <figcaption align="center">
+    <b>Figure 1.</b> Map of where major South Asian languages are spoken in Pakistan and nearby regions; overlapping colors show multilingual areas, gray symbols indicate other recorded languages, and red squares mark major cities.
+  </figcaption>
+</figure>
 
 - **Punjabi** - Shahmukhi-based (Punjab, Pakistan)
 - **Pashto** - Native language of Afghanistan and parts of Pakistan
@@ -157,6 +160,7 @@ If you're using this project, please cite appropriately:
   howpublished = {\url{https://github.com/yourusername/SACOR}}
 }
 ```
+
 
 
 
