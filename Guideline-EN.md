@@ -28,16 +28,6 @@ Provided with a parallel corpus, your task is to translate sentences into your l
 4. **Terminologies:** Coming up with native translations is not always easy, particularly when it comes to terminologies or specific vocabulary. How to translate "hard disk", "computer" or "extortion" in my native language? There is a simple rule: if you think that someone already coined a word in your language for specific terms, use it. If not, you can borrow words from other languages, i.e. you can simply use "computer" in your language. This borrowing should conform with your orthography so that a code-switching doesn't happen.  
 5. **External resources:** If your language has a dictionary, you can consult to help you in the translation task. 
 
-### **Workflow**
-
-You are provided with a spreadsheet like this:
-
-| English Translation | Your Translation |
-| ----- | ----- |
-| this is the kitchen |  |
-| I have nothing for you to do. |  |
-| she hastened from the room. |  |
-
 * In the shared spreadsheet, the "main" spreadsheet contains parallel sentences to be translated by you. The sentences are provided in English. Translate from English to your target language.  
 * If one these conditions is met, you can skip the sentence and move to the next one:  
   * **The sentence doesn't make sense**  
@@ -71,4 +61,5 @@ The following eight South Asian languages are included in this project:
 - **Balochi** (BAL) - Language of Balochistan region
 - **Hindko** (HND) - Language of northern Pakistan, particularly Khyber Pakhtunkhwa
 - **Brahui** (BRH) - Dravidian language spoken in Balochistan
+
 
