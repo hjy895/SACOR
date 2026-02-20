@@ -8,9 +8,9 @@ South Asia is characterized by remarkable linguistic diversity, with over 1.8 bi
 **Figure 2** 
 <img width="5967" height="2966" alt="Figure2_Translation_Statistics" src="https://github.com/user-attachments/assets/e450ffa4-8da6-4ae4-b13a-5d02aa10d8be" />
 **Table 3**
-<img width="1062" height="604" alt="Table 3" src="https://github.com/user-attachments/assets/41eb520e-6740-4100-b5b4-9c0e05057835" />
+<img width="1062" height="509" alt="Table 3" src="https://github.com/user-attachments/assets/742bf869-4ddf-4d19-8ef7-7bf253450012" />
 **Table 4** 
-<img width="1354" height="482" alt="Table " src="https://github.com/user-attachments/assets/b246cf2f-14eb-493d-99cf-320eaed4a1af" />
+<img width="1354" height="341" alt="Table " src="https://github.com/user-attachments/assets/b83e3105-97cd-466f-8397-f55834ed1e0b" />
 
  
  <br><br>
@@ -161,6 +161,7 @@ If you're using this project, please cite appropriately:
   howpublished = {\url{https://github.com/yourusername/SACOR}}
 }
 ```
+
 
 
 
