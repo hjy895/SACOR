@@ -1,6 +1,6 @@
 # SACOR: A Multilingual Parallel Corpus for Low-Resource South Asian Languages
 
-** We provide parallel corpora for eight under-represented languages in South Asia along with scripts to fine-tune NLLB. The resources are open-source. Please consider these languages in your projects!**
+We provide parallel corpora for eight under-represented languages in South Asia along with scripts to fine-tune NLLB. The resources are open-source. Please consider these languages in your projects!
 
 South Asia is characterized by remarkable linguistic diversity, with over 1.8 billion inhabitants speaking more than 650 languages across multiple language families. In a first attempt of its kind, we create parallel corpora for the following eight under-represented languages of South Asia:
 
