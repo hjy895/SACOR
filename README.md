@@ -148,7 +148,7 @@ Any support to sustain this initiative, as well as research collaborations to ex
 If you're using this project, please cite appropriately:
 
 ```bibtex
-@misc{sacor2024,
+@misc{sacor2026,
   title = {{SACOR}: A Multilingual Parallel Corpus for Low-Resource {South Asian} Languages},
   author = {SACOR Contributors},
   year = {2026},
