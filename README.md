@@ -3,7 +3,7 @@
 ** We provide parallel corpora for eight under-represented languages in South Asia along with scripts to fine-tune NLLB. The resources are open-source. Please consider these languages in your projects!**
 
 South Asia is characterized by remarkable linguistic diversity, with over 1.8 billion inhabitants speaking more than 650 languages across multiple language families. In a first attempt of its kind, we create parallel corpora for the following eight under-represented languages of South Asia:
-# Figure 1
+
  <img width="5799" height="4318" alt="Figure1_Map" src="https://github.com/user-attachments/assets/1997c2d9-2d33-471d-82fe-10711a3d9eaf" />
 
  
